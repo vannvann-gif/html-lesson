@@ -1,0 +1,21 @@
+.header{
+    width: 800px;
+    height: 60px;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+}
+
+.menu{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.menu a{
+    text-decoration: none;
+}
